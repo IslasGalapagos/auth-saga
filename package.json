@@ -1,0 +1,20 @@
+{
+  "name": "auth-saga",
+  "description": "Auth saga with test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IslasGalapagos/auth-saga.git"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "redux-saga": "^0.16.0"
+  }
+}
